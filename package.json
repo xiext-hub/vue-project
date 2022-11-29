@@ -35,7 +35,9 @@
       "parser": "babel-eslint"
     }
   },
-  
+  "engines":{
+"node": ">14.0.0"
+},
   
   "postcss": {
     "plugins": {
