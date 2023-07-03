@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to China-03 -test分支~~合并到主分支00002"/>
+    <HelloWorld msg="Welcome to China-03 -test分支~~合并到主分支00003"/>
   </div>
 </template>
 
