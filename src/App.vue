@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to China-03 -轻舟已过万重山_李太白"/>
+    <HelloWorld msg="Welcome to China-03 -chang  an  san   wan   li "/>
   </div>
 </template>
 
